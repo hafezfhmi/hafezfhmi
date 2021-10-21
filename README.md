@@ -2,10 +2,10 @@
 
 ## I'm a Computer Science graduate and a self-taught web developer.
 
-- 💻 I’m currently learning MERN stacks
-- 🤖 Loves automation and interested in AI and ML to automate my life
-- 🎨 I draw sometimes, and have an eye on 3D modeling and photography
-- 🤓 An avid learner, loves to learn to 'level up' myself
+- 💻 I’m currently learning MERN stacks.
+- 🤖 Loves automation and interested in AI and ML to automate my life.
+- 🎨 I draw sometimes, and have an eye on 3D modeling and photography.
+- 🤓 An avid learner, loves to learn to 'level up' myself.
 
 [![Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafezfhmi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
