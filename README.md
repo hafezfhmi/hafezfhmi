@@ -3,8 +3,7 @@
 ## I'm a Computer Science graduate and a self-taught web developer.
 
 - 💻 I’m currently learning MERN stacks.
-- 🌎 Interested in the world of blockchain.
-- 🎨 I draw sometimes, in a form of digital arts.
+- 🌎 Interested in the world of blockchain and finance.
 - 🤓 An avid learner, loves to learn to 'level up' myself.
 
 [![Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafezfhmi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
