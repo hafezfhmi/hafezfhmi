@@ -1,6 +1,6 @@
 ### Hi there, I'm Hafez👋
 
-## I'm a Computer Science graduate and a self-taught web developer.
+## I'm a Full Stack Developer.
 
 - 💻 I’m currently learning MERN stacks.
 - 🌎 Interested in the world of blockchain and finance.
