@@ -4,7 +4,7 @@
 
 - 💻 I’m currently learning MERN stacks.
 - 🤓 An avid learner, loves to learn to 'level up' myself.
-- 🌐 Website: http://hafezfhmi.com
+- 🌐 Website: https://hafezfhmi.com
 
 [![Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafezfhmi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
