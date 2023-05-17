@@ -6,7 +6,7 @@
 - 🤓 An avid learner, loves to learn to 'level up' myself.
 - 🌐 Website: https://hafezfhmi.com
 
-[![Hafez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafezfhmi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hafez's GitHub stats](https://github-readme-stats-plum-rho-84.vercel.app/api?username=hafezfhmi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafezfhmi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-plum-rho-84.vercel.app/api/top-langs/?username=hafezfhmi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/hafezfhmi/hafezfhmi/blob/output/github-contribution-grid-snake.svg)
 
