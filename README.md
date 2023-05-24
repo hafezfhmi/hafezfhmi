@@ -1,8 +1,8 @@
 ### Hi there, I'm Hafez👋
 
-## I'm a Full Stack Developer.
+## I'm a Full-Stack JavaScript Developer.
 
-- 💻 I’m currently learning MERN stacks.
+- 💻 I mostly develop using JavaScript.
 - 🤓 An avid learner, loves to learn to 'level up' myself.
 - 🌐 Website: https://hafezfhmi.com
 
